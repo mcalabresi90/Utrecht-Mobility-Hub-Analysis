@@ -232,30 +232,14 @@ Cluster labels assigned to each hex, visualizations of group characteristics, an
 
 ## 📄 Final Report
 
-📥 [Download the full PDF](./3.0_report/Utrecht_Mobility_Hub_Report.pdf)  
+📥 [Download the full PDF](3.0_report/Utrecht_Mobility_Hub_Analysis_Full_Report.pdf)  
 📍 Includes methodology, maps, feature summaries, clustering results, and planning insights.
 
----
-
-## 📌 Getting Started
-
-### 1. Clone the repository  
-```bash
-git clone https://github.com/yourusername/utrecht-mobility-hubs.git
-cd utrecht-mobility-hubs
-```
-
-### 2. Create a virtual environment and install dependencies  
-```bash
-pip install -r requirements.txt
-```
-
-### 3. Open and run notebooks in order (under `/2.0_notebooks/`)
 
 ---
 
 ## 📬 Contact
 
-Project by [Your Name]  
-📧 your.email@example.com  
-🌍 [yourportfolio.com](https://yourportfolio.com)
+Project by Manoela Calabresi
+📧 manoela.calabresi@gmail.com
+🌍 https://bit.ly/Utrecht_Mobility_Analysis
