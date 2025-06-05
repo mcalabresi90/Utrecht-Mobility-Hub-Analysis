@@ -1,3 +1,0 @@
-"""
-Utrecht Mobility Project package
-""" 
